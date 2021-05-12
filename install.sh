@@ -88,5 +88,5 @@ systemctl start xrdp
 echo "Kurulum tamamlanmıştır."
 echo "Makinenizin çözünürlüğünü arttırmak için bu mesajdan sonra gücü tamamen kapatın."
 echo "Ardından PowerShell'i Windows üzerinde yönetici olarak çalıştırın ve aşağıdaki komutu girin."
-echo "Set-VM "(KENDI VM ISMINIZ)" -EnhancedSessionTransportType HVSocket"
+echo 'Set-VM "(KENDI VM ISMINIZ)" -EnhancedSessionTransportType HVSocket'
 echo "https://dogukan.dev"
