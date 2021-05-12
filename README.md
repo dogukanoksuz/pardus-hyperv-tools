@@ -8,3 +8,6 @@ https://github.com/mimura1133/linux-vm-tools üzerindeki script Pardus'a uyarlan
 https://youtu.be/gHx8FfScqmY adresinden kurulum videosuna erişebilirsiniz.
 
 Sorunlar için issue oluşturmayı unutmayın :)
+
+NOT:
+XFCE dışında bir masaüstü ortamı çalıştırabilmeyi başaramadım. Çözümü olan var ise betiğe eklemek isterim.
